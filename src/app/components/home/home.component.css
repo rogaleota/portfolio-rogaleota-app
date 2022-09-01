@@ -1,0 +1,26 @@
+.input {
+    background-color: black;
+}
+
+.home {
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
+
+.no-x-scrollbar {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    height:100%;
+    align-items: center;
+    background-color: blueviolet; 
+}
+
+.image {
+    width: 100px!important;
+}
